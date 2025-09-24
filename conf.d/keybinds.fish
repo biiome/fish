@@ -1,0 +1,10 @@
+alias ls='eza --icons --group-directories-first'
+alias la='eza -la --icons --group-directories-first'
+alias lt='eza -T --icons --group-directories-first'
+
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../..'
+alias .....='cd ../../../..'
+alias ......='cd ../../../../..'
+alias grep='grep --color=auto'
