@@ -1,4 +1,5 @@
-source /Users/appledev/.config/fish/cachyos-config.fish
+# source /Users/appledev/.config/fish/cachyos-config.fish
+source $HOME/.config/fish/cachyos-config.fish
 
 # overwrite greeting
 # potentially disabling fastfetch
